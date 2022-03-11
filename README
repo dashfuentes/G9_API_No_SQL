@@ -1,0 +1,12 @@
+node version 14.13.0
+
+create the follow file in the root directory
+*****************************
+               fileName =  .babelrc
+
+                {
+                    "presets": [
+                        "@babel/preset-env"
+                    ]
+                }
+**********************************
